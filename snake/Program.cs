@@ -13,10 +13,10 @@ namespace Snake
     {
         enum Direction
         {
-            LEFT,
-            UP,
-            RIGHT,
-            DOWN
+            LEFT, // 0
+            UP, // 1
+            RIGHT, // 2
+            DOWN // 3
         }
 
         static void Main(string[] args)
